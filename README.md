@@ -30,8 +30,22 @@
   * [《Python基础教程》第十章](https://github.com/SMouseyq/blog/blob/master/ReadingNote/Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/%E3%80%8APython%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0)
   
   
-### 第二部分 源码分析
+### 第二部分 
 
-### 第三部分 算法
+* Android
+* Java
+* Python
+* JavaScript
 
-### 第四部分 设计模式
+### 第三部分
+
+* 数据结构
+* 算法
+* 计算机网络
+* 操作系统
+
+
+### 第四部分
+
+* 设计模式
+
