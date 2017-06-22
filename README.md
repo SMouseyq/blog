@@ -29,18 +29,17 @@
   * [《Python基础教程》第八章](https://github.com/SMouseyq/blog/blob/master/ReadingNote/Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/%E3%80%8APython%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0)
   * [《Python基础教程》第九章](https://github.com/SMouseyq/blog/blob/master/ReadingNote/Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/%E3%80%8APython%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0)
   * [《Python基础教程》第十章](https://github.com/SMouseyq/blog/blob/master/ReadingNote/Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/%E3%80%8APython%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0)
-  
-    
-  ---
-  #### 思想篇
-  
-  * 《人类简史》
-  * 《失乐园》
-  * 《三体》
-  * 《追风筝的人》
-  *《...》
-  
-  
+
+---
+
+#### 思想篇
+
+* 《人类简史》
+* 《失乐园》
+* 《三体》
+* 《追风筝的人》
+*《...》
+
 ### 第二部分 
 
 * Android
