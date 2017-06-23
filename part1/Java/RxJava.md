@@ -7,7 +7,9 @@
 ### Start
 
 今天首先上网找了几个关于RxJava的帖子看了下，然后打开Android Studio，添加上RxJava的依赖，准备开始观摩这个经典的库，然后按照博客里的代码敲了下，发现没有*Observable.OnSubscribe*这个东西，我就奇了怪了，然后一想是不是版本的问题，看了下博客发表的时间是16年的8月份，我添加的依赖是:
-```compile 'io.reactivex.rxjava2:rxjava:2.0.0'```
+```
+compile 'io.reactivex.rxjava2:rxjava:2.0.0'
+```
 刚接触也不知道这个是什么时候的版本，那么怎么办呢，到[RxJava的release版本](https://github.com/ReactiveX/RxJava/releases)中查找一下对应的日期就好了嘛，于是上去一查，有两个大版本号1.x和2.x在同时进行，于是猜想这2.x并不是1.x的替代升级，而是有不同的侧重点才出现的一个新分支。于是我把依赖的版本号换成1.x的，然后就可以按照博客中的姿势开始学习了。
 
 ### What
