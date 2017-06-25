@@ -61,3 +61,10 @@ compile 'io.reactivex.rxjava2:rxjava:2.0.0'
         mObservable.subscribe(mObserver2);
 
 ```
+
+
+### 参考
+```
+
+> https://www.daidingkang.cc/2017/05/19/Rxjava/
+> http://www.jianshu.com/p/5e93c9101dc5
